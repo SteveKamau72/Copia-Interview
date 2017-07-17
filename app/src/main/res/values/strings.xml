@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Copia</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="error_username">Username required</string>
+    <string name="error_password">Password required</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="error_email">Email required</string>
+    <string name="error_phone">Phone required</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="full_name">Full name</string>
+    <string name="register">Register</string>
+    <string name="error_full_name">Full Name</string>
+    <string name="action_countries">Countries</string>
+    <string name="action_edit">Edit</string>
+    <string name="submit">Submit</string>
+    <string name="invalid_email">Email is invalid</string>
+    <string name="log_out">Log Out</string>
+</resources>
